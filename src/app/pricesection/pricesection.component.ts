@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'section5',
+  selector: 'pricesection',
   template: `
   <div class="bg-[#FFF2FC] py-40 text-center">
     <p class="text-3xl font-semibold text-[#EA0A8E]">A Price To Suit Everyone</p>
@@ -21,6 +21,6 @@ import { Component } from '@angular/core';
     `
   ]
 })
-export class Section5 {
+export class Pricesection {
 
 }
